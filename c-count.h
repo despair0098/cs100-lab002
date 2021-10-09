@@ -15,8 +15,3 @@ unsigned int count(const std::string& str) {
 
     return counter;
 }
-
-
-int count(const std::string& phase) {
-	return 0;
-}
